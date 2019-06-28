@@ -1,0 +1,3 @@
+[submodule "robotic_control"]
+	path = robotic_control
+	url = https://github.com/kmolLin/robotic_control.git
