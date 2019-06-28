@@ -1,0 +1,9 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+test,512,512,nuts,111,454,145,485
+test,512,512,nuts,26,326,59,357
+test,512,512,nuts,410,155,443,186
+test,512,512,nuts,111,112,145,144
+test,512,512,screw,381,370,420,470
+test,512,512,screw,253,370,292,470
+test,512,512,screw,236,206,275,306
+test,512,512,screw,125,199,164,299
